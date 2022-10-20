@@ -11,6 +11,7 @@ ipython = "*"
 scikit-learn = "*"
 pandas = "*"
 pillow = "*"
+xgboost = "*"
 
 [dev-packages]
 
